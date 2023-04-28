@@ -4,7 +4,6 @@
 </h1>
 
 
-<img src='./myLogo.png' width='190'>
 
 
 <!--  -->
@@ -20,7 +19,7 @@
 <!--  -->
 
 ### Connect with Me :
-
+<a href="https://kironagy.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&Color=green"/></a>
 <a href="https://www.linkedin.com/in/kiro-nagy-723240215" target="_blank"><img src="https://img.shields.io/badge/-Kiro%20Nagy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/kerollos.nagy.98/" target="_blank"><img src="https://img.shields.io/badge/-Kiro%20Nagy-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
